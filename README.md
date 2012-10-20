@@ -7,4 +7,4 @@ box2d/GB2ShapeCache.js - shape cashe class
 
 TestBox2d/src/GameField.js method:createBodyAndSprite:function (position) - example how to use Shape Cashe
 
-We created this class for Ludum Dare 24 for owr game "Cow" - http://www.ludumdare.com/compo/ludum-dare-24/?action=preview&uid=16595
+We created this class for Ludum Dare 24 for our game "Cow" - http://www.ludumdare.com/compo/ludum-dare-24/?action=preview&uid=16595
