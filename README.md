@@ -1,4 +1,4 @@
-Sample ShapeCashe HTML5 (Java Script)
+Example ShapeCashe HTML5 (Java Script)
 =======================
 
 Applocation with using Cocos2d game engine for HTML5 (Java Scripit) with Shape Cashe class for PhysicsEditor (http://www.codeandweb.com/physicseditor)
@@ -6,3 +6,5 @@ Applocation with using Cocos2d game engine for HTML5 (Java Scripit) with Shape C
 box2d/GB2ShapeCache.js - shape cashe class
 
 TestBox2d/src/GameField.js method:createBodyAndSprite:function (position) - example how to use Shape Cashe
+
+We created this class for Ludum Dare 24 for owr game "Cow" - http://www.ludumdare.com/compo/ludum-dare-24/?action=preview&uid=16595
