@@ -1,7 +1,7 @@
 Example ShapeCashe HTML5 (Java Script)
 =======================
 
-Applocation with using Cocos2d game engine for HTML5 (Java Scripit) with Shape Cashe class for PhysicsEditor (http://www.codeandweb.com/physicseditor)
+Application with using Cocos2d game engine for HTML5 (Java Scripit) with Shape Cashe class for PhysicsEditor (http://www.codeandweb.com/physicseditor)
 
 box2d/GB2ShapeCache.js - shape cashe class
 
