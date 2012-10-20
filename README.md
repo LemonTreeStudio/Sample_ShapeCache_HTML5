@@ -5,4 +5,4 @@ Applocation with using Cocos2d game engine for HTML5 (Java Scripit) with Shape C
 
 box2d/GB2ShapeCache.js - shape cashe class
 
-TestBox2d/src/GameField.js method:createBodyAndSprite:function (position) - example how to use Sgape Cashe
+TestBox2d/src/GameField.js method:createBodyAndSprite:function (position) - example how to use Shape Cashe
